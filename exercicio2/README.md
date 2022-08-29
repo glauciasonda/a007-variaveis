@@ -3,6 +3,7 @@ Escreva um programa que faça 3 perguntas de Sim ou Não, e guarde cada resposta
 
 a) Crie três novas variáveis, contendo as respostas;
 
+
 b) Imprima na tela todas as respostas. Por exemplo:
 
 ```
